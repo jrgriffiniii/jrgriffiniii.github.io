@@ -1,0 +1,31 @@
+# Site settings
+title: "jrgriffiniii"
+email: jrgriffiniii@gmail.com
+description: "A digital librarian and web developer."
+baseurl: ""
+url: "http://github.com/jrgriffiniii"
+title_description: "A digital librarian and web developer."
+title_image: "https://avatars0.githubusercontent.com/u/1443986?v=3&s=460"
+google_analytics: "UA-20365477-4"
+disqus_account: jrgriffiniii
+github_repository: https://github.com/jrgriffiniii/jrgriffiniii.github.io
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: jrgriffiniii
+github_username:  jrgriffiniii
+linkedin_link: https://www.linkedin.com/in/jrgriffiniii
+google_plus_link: https://plus.google.com/+JamesGriffinIII
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+
+# Footer
+footer_left: "Made using <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>&nbsp;and&nbsp;<a href=\"https://github.com/jekyll/jekyll\">Jekyll</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jrgriffiniii/jrgriffiniii.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
